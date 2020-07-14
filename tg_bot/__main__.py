@@ -23,6 +23,7 @@ Heya {}, my name is {}!
 
 Im a group manager bot maintained by  [this person](t.me/fizzle_rocks).
 If you have any series requests [click here](t.me/trendingseriesrequestbot?start=trendingseriesrequestbot)
+Feel free to /donate
 """
 
 HELP_STRINGS = """
