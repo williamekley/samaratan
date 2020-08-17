@@ -19,9 +19,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Heya {}, my name is {}!
+Heya *{}*, my name is {}!
 
-Im a group manager bot maintained by  [this person](t.me/fizzle_rocks).
+Im a group manager bot maintained by  [this person](tg://user?id={}).
 If you have any series requests [click here](t.me/trendingseriesrequestbot?start=trendingseriesrequestbot)
 Feel free to /donate
 """
